@@ -10,3 +10,6 @@ j = 1
 for i in li:
     j = j * i
 print(j)
+# 3. Write a Python program to get the largest number from a list.
+li = [5,4,50]
+j = 0
